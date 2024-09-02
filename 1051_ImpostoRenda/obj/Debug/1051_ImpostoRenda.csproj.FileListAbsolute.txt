@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1051_ImpostoRenda\1051_ImpostoRenda\bin\Debug\1051_ImpostoRenda.exe.config
+C:\CURSOS\C#\projetos\1051_ImpostoRenda\1051_ImpostoRenda\bin\Debug\1051_ImpostoRenda.exe
+C:\CURSOS\C#\projetos\1051_ImpostoRenda\1051_ImpostoRenda\bin\Debug\1051_ImpostoRenda.pdb
+C:\CURSOS\C#\projetos\1051_ImpostoRenda\1051_ImpostoRenda\obj\Debug\1051_ImpostoRenda.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1051_ImpostoRenda\1051_ImpostoRenda\obj\Debug\1051_ImpostoRenda.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1051_ImpostoRenda\1051_ImpostoRenda\obj\Debug\1051_ImpostoRenda.exe
+C:\CURSOS\C#\projetos\1051_ImpostoRenda\1051_ImpostoRenda\obj\Debug\1051_ImpostoRenda.pdb
